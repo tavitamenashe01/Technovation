@@ -18,7 +18,7 @@ class MyProfile extends Component {
             <img
               src="https://image.flaticon.com/icons/svg/163/163810.svg"
               class="card-img-top img-fluid"
-              alt="Responsive image"
+              alt="Responsive "
             />
             <div class="card-body">
               <h4 class="card-h4">Даша Попова</h4>
